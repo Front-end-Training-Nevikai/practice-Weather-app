@@ -87,8 +87,11 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={API
 ### Returned Data Includes:
 
 1.main.temp → Temperature
+
 2.main.humidity → Humidity
+
 3.wind.speed → Wind speed
+
 4.weather[0].main → Weather type (e.g., Clear, Rain, Clouds)
 
 ---
@@ -98,13 +101,17 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={API
 ### ✨ Glassmorphism Design
 
 1.Transparent containers
+
 2.Soft glowing backgrounds
+
 3.Smooth gradient effects
 
 ### 💫 Animations
 
 1.Card fade-in
+
 2.Weather icon floating
+
 3.Error message shake animation
 
 ---
@@ -119,7 +126,9 @@ Feel free to modify and use it for your personal or commercial projects.
 ## 🙌 Acknowledgements
 
 1.OpenWeatherMap for providing weather data
+
 2.Google Fonts (Poppins & Vazirmatn)
+
 3.Inspiration from modern glass UI and minimal weather apps
 
 ---
@@ -127,8 +136,11 @@ Feel free to modify and use it for your personal or commercial projects.
 ## 💡 Future Improvements
 
 1.5-day weather forecast page
+
 2.Dark/Light mode
+
 3.Geolocation weather detection
+
 4.Animated weather icons
 
 ---
