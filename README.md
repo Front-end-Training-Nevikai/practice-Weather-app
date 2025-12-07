@@ -1,6 +1,10 @@
 # 🌤️ Nevikai Weather App
 A modern, minimalistic, and responsive weather application built using **HTML**, **CSS (Glassmorphism UI)**, and **JavaScript (OpenWeatherMap API)**.
 This project enables users to get **real-time temperature, humidity, wind speed**, and corresponding weather icons for any city worldwide.
+---
+## 🔗 Live Demo
+
+Visit the demo: [https://front-end-training-nevikai.github.io/practice-Weather-app/](https://front-end-training-nevikai.github.io/practice-Weather-app/)
 
 ---
 
