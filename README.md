@@ -69,6 +69,8 @@ Simply open index.html in your browser:
 
 2.Use Live Server (VS Code extension) for the best experience.
 
+---
+
 ## 🌐 API Usage
 
 The app uses the OpenWeatherMap API:
@@ -82,7 +84,7 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={API
 3.wind.speed → Wind speed
 4.weather[0].main → Weather type (e.g., Clear, Rain, Clouds)
 
-
+---
 
 ## 🎨 UI Highlights
 
@@ -98,14 +100,14 @@ https://api.openweathermap.org/data/2.5/weather?units=metric&q={city}&appid={API
 2.Weather icon floating
 3.Error message shake animation
 
-
+---
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 Feel free to modify and use it for your personal or commercial projects.
 
-
+---
 
 ## 🙌 Acknowledgements
 
@@ -113,7 +115,7 @@ Feel free to modify and use it for your personal or commercial projects.
 2.Google Fonts (Poppins & Vazirmatn)
 3.Inspiration from modern glass UI and minimal weather apps
 
-
+---
 
 ## 💡 Future Improvements
 
@@ -122,7 +124,7 @@ Feel free to modify and use it for your personal or commercial projects.
 3.Geolocation weather detection
 4.Animated weather icons
 
-
+---
 
 ## ⭐ If you like this project, consider giving it a star on GitHub!
 Your support motivates future improvements 🚀
