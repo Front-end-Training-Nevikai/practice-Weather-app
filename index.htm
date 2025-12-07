@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- SEO -->
+  <meta name="description" content="Nevikai Weather App - Check real-time weather, humidity, and wind speed." />
+  <meta name="author" content="Nevikai" />
+
+  <title>Weather App | Nevikai</title>
+
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main class="card">
+
+    <!-- Search Section -->
+    <section class="search" aria-label="Search city weather">
+      
+      <input
+        id="city-input"
+        type="text"
+        placeholder="Enter city name"
+        spellcheck="false"
+        aria-label="City name"
+      />
+      <button id="search-btn" aria-label="Search city">
+        <img src="assets/images/search.png" alt="Search icon" />
+      </button>
+    </section>
+
+    <!-- Error Message -->
+    <div class="error" aria-live="polite">
+      <p>Invalid city name</p>
+    </div>
+
+    <!-- Weather Output -->
+    <section class="weather">
+
+      <img
+        src="assets/images/rain.png"
+        class="weather-icon"
+        alt="Weather condition icon"
+      />
+
+      <h1 class="temp">22°C</h1>
+      <h2 class="city">New York</h2>
+
+      <div class="details">
+
+        <div class="col">
+          <img src="assets/images/humidity.png" alt="Humidity icon" />
+          <div>
+            <p class="humidity">50%</p>
+            <p>Humidity</p>
+          </div>
+        </div>
+
+        <div class="col">
+          <img src="assets/images/wind.png" alt="Wind icon" />
+          <div>
+            <p class="wind">15 km/h</p>
+            <p>Wind Speed</p>
+          </div>
+        </div>
+
+      </div>
+
+    </section>
+
+  </main>
+
+  <script src="code.js"></script>
+</body>
+</html>
