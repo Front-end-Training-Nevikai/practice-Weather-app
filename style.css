@@ -13,17 +13,16 @@
 }
 
 :root {
-  /* ✨ رنگ‌های حرفه‌ای و هماهنگ */
-  --bg1: #89CFF0;        /* Sky Blue */
-  --bg2: #4682B4;        /* Steel Blue */
+  --bg1: #89CFF0;
+  --bg2: #4682B4;        
   --bg-glow: rgba(255, 255, 255, 0.6);
 
   --glass: rgba(255, 255, 255, 0.18);
   --glass-hover: rgba(255, 255, 255, 0.26);
 
-  --accent1: #5cc6ff;    /* Turquoise Sky */
-  --accent2: #4a90e2;    /* Royal Sky */
-  --accent3: #bccfff;    /* Soft Purple-Blue */
+  --accent1: #5cc6ff;
+  --accent2: #4a90e2;
+  --accent3: #bccfff;
 
   --text-dark: #2a2a2a;
   --text-light: #ffffff;
